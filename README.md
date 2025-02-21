@@ -1,4 +1,4 @@
-# Adam Owolabi, welcome!
+# Hi 👋, I'm Adam Owolabi, welcome!
 
 ![](https://komarev.com/ghpvc/?username=AdamOwolabi&style=flat-square)
 

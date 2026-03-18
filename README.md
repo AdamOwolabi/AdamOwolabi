@@ -9,6 +9,6 @@
 
 ### Language Stats :)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamOwolabi&theme=radical&hide_forks=false&layout=compact"  width="380px" alt="AdamOwolabi Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamOwolabi&theme=radical&hide_forks=false&layout=compact"  width="400px" alt="AdamOwolabi Language Stats" />
 </p>
 

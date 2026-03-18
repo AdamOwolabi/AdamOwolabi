@@ -9,5 +9,5 @@
 
 ### Language Stats :)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamOwolabi&layout=compact&theme=radical&hide_forks=false" alt="AdamOwolabi Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamOwolabi&theme=radical&hide_forks=false" alt="AdamOwolabi Language Stats" />
 </p>

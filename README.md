@@ -1,14 +1,13 @@
-# Hi 👋, I'm Adam Owolabi, welcome!!
+# Hi 👋, 
 
-![](https://komarev.com/ghpvc/?username=AdamOwolabi&style=flat-square)
+I'm Adam Owolabi, a Computer Science Student at University of Maryland, Baltimore County. 
 
-### GitHub Stats :)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamOwolabi&theme=radical&layout=compact" alt="AdamOwolabi Stats" />
-</p>
+I like to learn how to things work. I have an interest in Backend, Distributed System, and Infrastructure. 
 
-### Language Stats :)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamOwolabi&theme=radical&hide_forks=false&layout=compact"  width="400px" alt="AdamOwolabi Language Stats" />
-</p>
+My strongest programming languages are Python, Java, and C++. 
 
+At the moment, I'm taking a deep dive into various distributed applications while also building from scratch replica tools of proprietary systems like Operating Systems, Databases, Cloud Computing. I'm mostly fascinated by the technical complexity and the impact technology has. 
+
+What i cannot build, I cannot understand  - Richard Feymann 
+
+Excellence is not an act but a repeated habit  - aristotle

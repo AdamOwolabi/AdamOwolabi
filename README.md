@@ -10,5 +10,5 @@ At the moment, I'm taking a deep dive into various distributed applications whil
 
 > "What i cannot build, I cannot understand" - Richard Feymann
 
-> "Excellence is not an act but a repeated habit"  - aristotle
+> "Excellence is not an act but a repeated habit"  - Aristotle
 
